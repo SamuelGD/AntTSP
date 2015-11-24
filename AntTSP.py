@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 ##############################################################################
-# Travelling Salesperson Problem          	         Samuel Guilhem-Ducleon  #
+# Travelling Salesperson Problem                     Samuel Guilhem-Ducleon  #
 ##############################################################################
 ##############################################################################
-# EVOLIFE  www.dessalles.fr/Evolife                    Jean-Louis Dessalles  #
-#            Telecom ParisTech  2014                       www.dessalles.fr  #
+# Module of EVOLIFE: www.dessalles.fr/Evolife       by Jean-Louis Dessalles  #
+# Telecom ParisTech  2014                                  www.dessalles.fr  #
 ##############################################################################
 
 """ 
